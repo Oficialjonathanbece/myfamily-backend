@@ -31,23 +31,31 @@ app.add_middleware(
 # --- CLAVES PROTEGIDAS EN EL SERVIDOR ---
 # Ahora las contraseñas viven aquí de forma segura y no en el navegador
 CLAVES_FAMILIARES = {
-  'mary luz' : '230513',
-  'fernando' : '1202',
-  'sebastian' : '131015',
-  'maria gladis' : '1955',
-  'rosmary alejandra pena ramos' : '1899', 
-  'daniela' : '1234',
-  'danna' : '0405',
-  'flor maria' : '2222',
-  'wesly' : '1511',
-  'fernanda' : '1605',
-  'edinson' : '0602',
-  'cristian y jenifer' : '6666',
-  'salome y emmanuel' : '7777',
-  'hanna' : '0000',
-  'padrino' : '9999',
-  'madrina' : '1000',
-  'familiares' : '1212'
+    "sebastian-the-best-friend-in-the-world": "1234",
+    "maria-gladis": "1234",
+    "mary-luz-becerra": "1234",
+    "fernando-rodriguez": "1234",
+    "luis-david-macuare": "1234",
+    "mileida-ortiz": "1234",
+    "flor-maria": "1234",
+    "daniela-giraldo": "1234",
+    "david-esposo-de-daniela": "1234",
+    "danna-giraldo": "1234",
+    "brayan-esposo-de-danna": "1234",
+    "salome-y-emmanuel": "1234",
+    "hanna": "1234",
+    "fernanda-becerra": "1234",
+    "wesly": "1234",
+    "jesus-esposo-de-fernanda": "1234",
+    "edinson-viera": "1234",
+    "cristian-y-jenifer": "1234",
+    "padrino": "1234",
+    "madrina": "1234",
+    "yese": "1234",
+    "shelsy-sofia": "1234",
+    "oscar-humberto-aristizabal": "1234",
+    "rosmary-alejandra-pena-ramos": "1234",
+    "familiares": "1234"
 }
 
 SPECIAL_ADMIN_CODE = "9876"  # Código exclusivo para crear notas
